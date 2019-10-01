@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17121" started-at="2019-10-01T17:30:16 IST" finished-at="2019-10-01T17:30:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17121" started-at="2019-10-01T17:30:16 IST" finished-at="2019-10-01T17:30:33 IST">
+      <class name="session3.Appium.callModule">
+        <test-method status="PASS" signature="basic()[pri:0, instance:session3.Appium.callModule@51c668e3]" name="basic" is-config="true" duration-ms="11742" started-at="2019-10-01T17:30:04 IST" finished-at="2019-10-01T17:30:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic -->
+        <test-method status="PASS" signature="Hide_ShowFun()[pri:0, instance:session3.Appium.callModule@51c668e3]" name="Hide_ShowFun" duration-ms="11780" started-at="2019-10-01T17:30:16 IST" finished-at="2019-10-01T17:30:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hide_ShowFun -->
+        <test-method status="PASS" signature="ShowTitle()[pri:0, instance:session3.Appium.callModule@51c668e3]" name="ShowTitle" duration-ms="5321" started-at="2019-10-01T17:30:28 IST" finished-at="2019-10-01T17:30:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShowTitle -->
+        <test-method status="PASS" signature="module2()[pri:0, instance:session3.Appium.callModule@51c668e3]" name="module2" is-config="true" duration-ms="256" started-at="2019-10-01T17:30:33 IST" finished-at="2019-10-01T17:30:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module2 -->
+      </class> <!-- session3.Appium.callModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+{
+"Animation":"//android.widget.TextView[@text='Animation']",
+"Hide&Show":"//android.widget.TextView[@text='Hide-Show Animations']",
+"Hide_GONE":"//android.widget.CheckBox[@text='Hide (GONE)']",
+"0":"//android.widget.Button[@text='0']",
+"1":"//android.widget.Button[@text='1']",
+"2":"//android.widget.Button[@text='2']",
+"3":"//android.widget.Button[@text='3']",
+"ShowButton":"//android.widget.Button[@text='SHOW BUTTONS']",
+"Application":"//android.widget.TextView[@text='App']",
+"Action_Bar":"//android.widget.TextView[@text='Action Bar']",
+"Display_Option":"//android.widget.TextView[@text='Display Options']",
+"Show_Title":"//android.widget.Button[@text='DISPLAY_SHOW_TITLE']",
+"Title":"//android.widget.TextView[@text='App/Action Bar/Display Options']"
+}
